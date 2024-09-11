@@ -1,0 +1,6 @@
+[submodule "jericho/themes/hextra"]
+	path = jericho/themes/hextra
+	url = https://github.com/imfing/hextra.git
+[submodule "jericho/public"]
+	path = jericho/public
+	url = https://github.com/Jeriko3/jericho.github.io.git
