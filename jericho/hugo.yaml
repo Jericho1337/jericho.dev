@@ -1,4 +1,4 @@
-baseURL: https://jeriko3.github.io/jericho.github.io/
+baseURL: https://jericho1337.github.io/
 languageCode: en-us
 title: Jericho Project
 theme: hextra
@@ -7,18 +7,15 @@ menu:
     - name: Main
       pageRef: /
       weight: 1
-    - name: Blog
-      pageRef: /blog
-      weight: 2
     - name: About
       pageRef: /about
-      weight: 3
+      weight: 2
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
-      url: "https://github.com/Jeriko3"
+      weight: 4
+      url: "https://github.com/Jericho1337"
       params:
         icon: github
